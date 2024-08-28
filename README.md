@@ -1,4 +1,4 @@
-# CodeClauseInternship_RecipeBook
+
 
 # Recipe Storage Web App
 
@@ -51,7 +51,7 @@ To run this project locally, you need a web browser.
 
 All added recipes will be displayed in the "Recipes" section.
 
-Code Overview:
+## Code Overview:
 
 index.html: Contains the HTML structure for the application.
 
@@ -59,15 +59,15 @@ styles.css: Provides styling for the application.
 
 script.js: Handles form submission, recipe storage, and displaying recipes from local storage.
 
-Contributing:
+## Contributing:
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request. For major changes, please open an issue to discuss your proposed changes.
 
-License:
+## License:
 
 This project is licensed under the MIT License.
 
-Contact:
+## Contact:
 
 If you have any questions, feel free to reach out to me:
 
